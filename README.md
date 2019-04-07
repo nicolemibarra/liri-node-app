@@ -15,4 +15,5 @@
       1. node liri.js movie-this <'movie title'> will render your information about your chossen movie. 
       1. node liri.js spotify-this-song <'blank'> will render default movie information about Mr. Nobody.  
 ![alt text](https://github.com/nicolemibarra/liri-node-app/blob/master/Screen%20Shot%202019-04-06%20at%206.33.33%20PM.png)
+*Spotify, Bands in Town, and OMDB were used in this liri-node-app.*
       

@@ -1,0 +1,64 @@
+________________________________________
+Name of Venue: Musikkens Hus
+Venue Location: Aalborg
+Date of the Event: 04/06/2019
+________________________________________
+Name of Venue: La Cour Denver's Art Bar
+Venue Location: Denver
+Date of the Event: 04/06/2019
+________________________________________
+Name of Venue: Det Kgl. Teater, Gamle Scene
+Venue Location: København K
+Date of the Event: 04/06/2019
+________________________________________
+Name of Venue: Nykøbing F. Teater
+Venue Location: Nykobing Sjaelland
+Date of the Event: 04/06/2019
+________________________________________
+Name of Venue: ODEON, Store Sal
+Venue Location: Odense C
+Date of the Event: 04/06/2019
+________________________________________
+Name of Venue: Christ Church at Grove Farm
+Venue Location: Sewickley
+Date of the Event: 04/06/2019
+________________________________________
+Name of Venue: The Lexington
+Venue Location: London
+Date of the Event: 04/06/2019
+________________________________________
+Name of Venue: Gilcombe Farm
+Venue Location: Bruton
+Date of the Event: 04/06/2019
+________________________________________
+Name of Venue: Gilcombe Farm
+Venue Location: Bruton
+Date of the Event: 04/06/2019
+________________________________________
+Artist: Lauren Daigle
+Song: You Say
+Preview: https://p.scdn.co/mp3-preview/01b87f6cc792a9269cf13926dd7a800b1e006625?cid=5800935056f24bcca99ffe8fe66aa10a
+Album: Look Up Child
+________________________________________
+Artist: Ace of Base
+Song: The Sign
+Preview: https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=5800935056f24bcca99ffe8fe66aa10a
+Album: The Sign (US Album) [Remastered]
+________________________________________
+Movie Title: Interstellar
+Year Released: 2014
+IMDB Rating: 8.6
+Rotten Tomatoes Rating: 72%
+Country Produced: USA, UK
+Language: English
+Plot: A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.
+Actors: Ellen Burstyn, Matthew McConaughey, Mackenzie Foy, John Lithgow
+________________________________________
+Movie Title: Mr. Nobody
+Year Released: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 67%
+Country Produced: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham

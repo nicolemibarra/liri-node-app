@@ -5,7 +5,7 @@
 ### *"LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data."*
 
 1. Concert 
-      1. node liri.js concert-this <'artist'> will render information about your chossen artist(s) concerts. 
+      1. node liri.js concert-this <'artist(s)'> will render information about your chossen artist(s) concerts. 
 ![alt text](https://github.com/nicolemibarra/liri-node-app/blob/master/Screen%20Shot%202019-04-06%20at%206.31.59%20PM.png)
 1. Spotify 
       1. node liri.js spotify-this-song <'song'> will render information about your chossen song. 
